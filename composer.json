@@ -11,9 +11,5 @@
       "name": "Stevie Mayhew",
       "email": "stevie.mayhew@littlegiant.co.nz"
     }
-  ],
-  "require": {
-    "composer/installers": "~1.0",
-    "silverstripe/framework": "4.*"
-  }
+  ]
 }
